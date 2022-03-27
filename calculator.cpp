@@ -7,11 +7,11 @@ int main()
     int a, b;
     char op;
 
-    cout << "enter first value: ";
+    cout << "Enter first value: ";
     cin >> a;
-    cout << "enter op: ";
+    cout << "Enter op: ";
     cin >> op;
-    cout << "enter second value: ";
+    cout << "Enter second value: ";
     cin >> b;
     int result;
 
