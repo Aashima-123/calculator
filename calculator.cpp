@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
-    int a, b;
+    int a,b;
     char op;
 
     cout << "Enter first value: ";
@@ -24,7 +24,7 @@ int main()
     }else if(op == '*'){
         cout << a*b;
     }else{
-        cout << "invalid operator";
+        cout << "Invalid Operation";
     }
 
     return 0;
